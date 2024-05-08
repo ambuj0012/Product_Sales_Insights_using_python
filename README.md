@@ -15,3 +15,4 @@ Overall, our goal is to empower businesses operating in any product industry wit
       1. Numpy (Numerical Computing)
       2. Pandas (data manipulation)
       3. MatPlotlib/Seaborn (data visualization)
+   2. Jupyter Notebook (to execute python code)
