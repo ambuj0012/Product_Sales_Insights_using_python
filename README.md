@@ -8,3 +8,5 @@ Through Python's data analysis libraries, we dissect the data to uncover pattern
 this project also aims to provide visualizations that effectively communicate key insights derived from the analysis. This includes interactive charts, graphs, and dashboards that highlight trends and patterns in the data, making it easier for stakeholders to interpret and act upon the findings.
 
 Overall, our goal is to empower businesses operating in any product industry with actionable intelligence derived from Amazon's vast sales data. By leveraging Python for data analysis, we can unlock valuable insights that drive informed decision-making and ultimately contribute to business growth and success in the competitive e-commerce landscape.
+
+# Technologies Used
