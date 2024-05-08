@@ -1,4 +1,4 @@
-# Product_Sales_Insights_using_python_and_powerBi
+# Product_Sales_Insights_using_python
 This project utilizes Python to conduct a comprehensive analysis of Amazon's electronics sales data. Leveraging Python's powerful data analysis capabilities, we delve deep into the transactional data to extract valuable insights. Our analysis focuses on various aspects including customer behavior, product trends, pricing strategies, and market dynamics within the electronics category on Amazon.
 
 By scrutinizing the transactional data, it aims to provide actionable intelligence to inform strategic business decisions. This includes optimizing pricing strategies based on market demand and competitor pricing, forecasting demand for specific products to ensure adequate inventory levels, and identifying growth opportunities within the electronics market on Amazon.
