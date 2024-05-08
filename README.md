@@ -9,4 +9,9 @@ this project also aims to provide visualizations that effectively communicate ke
 
 Overall, our goal is to empower businesses operating in any product industry with actionable intelligence derived from Amazon's vast sales data. By leveraging Python for data analysis, we can unlock valuable insights that drive informed decision-making and ultimately contribute to business growth and success in the competitive e-commerce landscape.
 
-# Technologies Used
+# Technologies -
+   1. Python (Data Analysis and Visualization)
+      Python Libraries-
+      1. Numpy (Numerical Computing)
+      2. Pandas (data manipulation)
+      3. MatPlotlib/Seaborn (data visualization)
