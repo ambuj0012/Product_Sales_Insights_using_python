@@ -16,3 +16,10 @@ Overall, our goal is to empower businesses operating in any product industry wit
       2. Pandas (data manipulation)
       3. MatPlotlib/Seaborn (data visualization)
    2. Jupyter Notebook (to execute python code)
+
+# Dataset -
+   The dataset used in this project is available publicly on Kaggle:
+   https://www.kaggle.com/datasets/edusanketdk/electronics
+
+   NOTE - You may need to create a free Kaggle account to access the dataset.
+   
